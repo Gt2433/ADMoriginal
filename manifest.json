@@ -1,7 +1,7 @@
 {
-  "name": "FANTEX MAG 2",
-  "short_name": "FANTEX",
-  "description": "تواصل مع FANTEX MAG 2",
+  "name": "ADM Original",
+  "short_name": "ADM Original",
+  "description": "تواصل مع ADM Original",
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
